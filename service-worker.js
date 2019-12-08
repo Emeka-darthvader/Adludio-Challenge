@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "Emeka-darthvader.github.io/Adludio-Challenge/precache-manifest.dbf42403350478a684f77fe81bb964e9.js"
+  "Emeka-darthvader.github.io/Adludio-Challenge/public/precache-manifest.6408e96c8d3b414dabe468bf54d6270f.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("Emeka-darthvader.github.io/Adludio-Challenge/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("Emeka-darthvader.github.io/Adludio-Challenge/public/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });

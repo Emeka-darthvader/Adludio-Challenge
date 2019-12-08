@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "Emeka-darthvader.github.io/Adludio-Challenge/static/css/main.4e15d56d.chunk.css",
-    "main.js": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/main.8078ebf1.chunk.js",
-    "main.js.map": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/main.8078ebf1.chunk.js.map",
-    "runtime-main.js": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/runtime-main.cd553faa.js",
-    "runtime-main.js.map": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/runtime-main.cd553faa.js.map",
-    "static/css/2.17e5ed98.chunk.css": "Emeka-darthvader.github.io/Adludio-Challenge/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.93ddbc7e.chunk.js": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/2.93ddbc7e.chunk.js",
-    "static/js/2.93ddbc7e.chunk.js.map": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/2.93ddbc7e.chunk.js.map",
-    "index.html": "Emeka-darthvader.github.io/Adludio-Challenge/index.html",
-    "precache-manifest.dbf42403350478a684f77fe81bb964e9.js": "Emeka-darthvader.github.io/Adludio-Challenge/precache-manifest.dbf42403350478a684f77fe81bb964e9.js",
-    "service-worker.js": "Emeka-darthvader.github.io/Adludio-Challenge/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "Emeka-darthvader.github.io/Adludio-Challenge/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.4e15d56d.chunk.css.map": "Emeka-darthvader.github.io/Adludio-Challenge/static/css/main.4e15d56d.chunk.css.map",
-    "static/js/2.93ddbc7e.chunk.js.LICENSE": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/2.93ddbc7e.chunk.js.LICENSE",
-    "static/media/google_logo.png": "Emeka-darthvader.github.io/Adludio-Challenge/static/media/google_logo.ff629c02.png"
+    "main.css": "Emeka-darthvader.github.io/Adludio-Challenge/public/static/css/main.4e15d56d.chunk.css",
+    "main.js": "Emeka-darthvader.github.io/Adludio-Challenge/public/static/js/main.ad79bb3f.chunk.js",
+    "main.js.map": "Emeka-darthvader.github.io/Adludio-Challenge/public/static/js/main.ad79bb3f.chunk.js.map",
+    "runtime-main.js": "Emeka-darthvader.github.io/Adludio-Challenge/public/static/js/runtime-main.fe9acac1.js",
+    "runtime-main.js.map": "Emeka-darthvader.github.io/Adludio-Challenge/public/static/js/runtime-main.fe9acac1.js.map",
+    "static/css/2.17e5ed98.chunk.css": "Emeka-darthvader.github.io/Adludio-Challenge/public/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.374a09a2.chunk.js": "Emeka-darthvader.github.io/Adludio-Challenge/public/static/js/2.374a09a2.chunk.js",
+    "static/js/2.374a09a2.chunk.js.map": "Emeka-darthvader.github.io/Adludio-Challenge/public/static/js/2.374a09a2.chunk.js.map",
+    "index.html": "Emeka-darthvader.github.io/Adludio-Challenge/public/index.html",
+    "precache-manifest.6408e96c8d3b414dabe468bf54d6270f.js": "Emeka-darthvader.github.io/Adludio-Challenge/public/precache-manifest.6408e96c8d3b414dabe468bf54d6270f.js",
+    "service-worker.js": "Emeka-darthvader.github.io/Adludio-Challenge/public/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "Emeka-darthvader.github.io/Adludio-Challenge/public/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.4e15d56d.chunk.css.map": "Emeka-darthvader.github.io/Adludio-Challenge/public/static/css/main.4e15d56d.chunk.css.map",
+    "static/js/2.374a09a2.chunk.js.LICENSE": "Emeka-darthvader.github.io/Adludio-Challenge/public/static/js/2.374a09a2.chunk.js.LICENSE",
+    "static/media/google_logo.png": "Emeka-darthvader.github.io/Adludio-Challenge/public/static/media/google_logo.ff629c02.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd553faa.js",
+    "static/js/runtime-main.fe9acac1.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.93ddbc7e.chunk.js",
+    "static/js/2.374a09a2.chunk.js",
     "static/css/main.4e15d56d.chunk.css",
-    "static/js/main.8078ebf1.chunk.js"
+    "static/js/main.ad79bb3f.chunk.js"
   ]
 }
