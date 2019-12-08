@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Adludio-Challenge/static/css/main.4e15d56d.chunk.css",
+    "main.css": "/Adludio-Challenge/static/css/main.2b27743a.chunk.css",
     "main.js": "/Adludio-Challenge/static/js/main.5577a07a.chunk.js",
     "main.js.map": "/Adludio-Challenge/static/js/main.5577a07a.chunk.js.map",
     "runtime-main.js": "/Adludio-Challenge/static/js/runtime-main.955abbde.js",
@@ -9,18 +9,19 @@
     "static/js/2.8f0eb7d5.chunk.js": "/Adludio-Challenge/static/js/2.8f0eb7d5.chunk.js",
     "static/js/2.8f0eb7d5.chunk.js.map": "/Adludio-Challenge/static/js/2.8f0eb7d5.chunk.js.map",
     "index.html": "/Adludio-Challenge/index.html",
-    "precache-manifest.62fab0135f4f2d859a148ebd5260a4f1.js": "/Adludio-Challenge/precache-manifest.62fab0135f4f2d859a148ebd5260a4f1.js",
+    "precache-manifest.27d0cc48d408af52f171cf7a4ae36999.js": "/Adludio-Challenge/precache-manifest.27d0cc48d408af52f171cf7a4ae36999.js",
     "service-worker.js": "/Adludio-Challenge/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/Adludio-Challenge/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.4e15d56d.chunk.css.map": "/Adludio-Challenge/static/css/main.4e15d56d.chunk.css.map",
+    "static/css/main.2b27743a.chunk.css.map": "/Adludio-Challenge/static/css/main.2b27743a.chunk.css.map",
     "static/js/2.8f0eb7d5.chunk.js.LICENSE": "/Adludio-Challenge/static/js/2.8f0eb7d5.chunk.js.LICENSE",
+    "static/media/App.css": "/Adludio-Challenge/static/media/asset2.585afc78.png",
     "static/media/google_logo.png": "/Adludio-Challenge/static/media/google_logo.ff629c02.png"
   },
   "entrypoints": [
     "static/js/runtime-main.955abbde.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.8f0eb7d5.chunk.js",
-    "static/css/main.4e15d56d.chunk.css",
+    "static/css/main.2b27743a.chunk.css",
     "static/js/main.5577a07a.chunk.js"
   ]
 }

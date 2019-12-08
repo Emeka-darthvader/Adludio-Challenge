@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Adludio-Challenge/precache-manifest.62fab0135f4f2d859a148ebd5260a4f1.js"
+  "/Adludio-Challenge/precache-manifest.27d0cc48d408af52f171cf7a4ae36999.js"
 );
 
 self.addEventListener('message', (event) => {
