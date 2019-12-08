@@ -1,0 +1,163 @@
+@font-face {
+  font-family: "CustomFont";
+  src: url("/fonts/AvenirCondensedHand");
+  src: url("/fonts/AvenirCondensedHand.ttf") format("ttf"),
+  /* url("CustomFont.otf") format("opentype"),
+  url("CustomFont.svg#filename") format("svg"); */
+  }
+body {
+  background-image: url("/img/asset2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  /* overflow: hidden; */
+  
+ }
+
+ .registration{
+  transform: scale(0.75);
+  /* border:1px solid; */
+  border-radius: 20px;
+  margin-top: 10%;
+  margin-bottom: 8%;
+  overflow: hidden; 
+}
+
+.registrationPane{
+  
+  background-image: url("/img/asset1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right 33% top 10%;
+  padding:45px;
+
+  /* font settings*/
+  color: white;
+  font-family: 'CustomFont', "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  /* font-weight:normal; */
+  /* font-style: normal; */
+  
+  /* line-height: normal; */
+  
+}
+.registrationPane_text{
+  margin-top: 25%;
+}
+
+#registrationPane_title{
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 5%;
+}
+
+.registrationPane_text_p{
+  font-size: medium;
+  font-weight: bold;
+}
+#registrationPane_text_a{
+  text-decoration: underline;
+  color: white;
+}
+
+
+.registrationDetails{
+  background-color: white;
+  padding-top: 6%;
+
+}
+
+#registrationFormDetails_logo{
+  padding-left:11%;
+} 
+
+#registrationFormDetails_formLogo{
+  
+  width: 19%;
+}
+/* #registrationFormDetails{
+  padding-left: 20%;
+  padding-right: 20%;
+} */
+
+
+
+
+.formDetails{
+  /* padding-top:25px;
+  padding-right: 0px; */
+  padding-right: 10%;
+  padding-left: 10%;
+  margin-top:4%
+  
+}
+
+
+.formDetails_title{
+  margin-bottom: 5%;
+  margin-left: 1.85%;
+}
+.form-group{
+  padding:10px;
+  border:2px solid;
+  border-color: gainsboro;
+  margin:10px;
+}
+.form-group>label{
+  position: relative;
+  top:-25px;
+  left:10px;
+  background-color:white;
+  color: gainsboro;
+}
+
+.form-group>input{
+  border:none;
+  margin: 0pt;
+  
+}
+
+.formDetails_button{
+  text-align: center;
+}
+
+#formDetails_button_text{
+  border-radius: 80px;
+  background-color: rgba(133, 37, 136, 0.918);
+  box-shadow: 10px 8px 20px -5px  grey;
+  text-transform: uppercase;
+  font-family: 'CustomFont', "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-weight: bold; 
+  padding-right: 30px;
+  padding-left: 30px;
+  width: 150px;
+  height: 50px;
+}
+
+
+.formDetails_input{
+  padding-top: 0px;
+  margin-top: 0px;
+  width: 50%;
+}
+.socialDetails{
+  margin-left:20%;
+  margin-right: 30%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  box-shadow: 10px 8px 20px -5px  grey;
+  padding: 10px 10px;
+}
+#socialDetails_logo{
+  float: left;
+}
+#socialDetails_logo_img{
+  height: 20px;
+  width: 20px;
+}
+#socialDetails_text{
+  text-align: center;
+  font-weight: bold;
+  font-family: 'CustomFont', "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  color: grey;
+}
