@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "Emeka-darthvader.github.io/Adludio-Challenge/static/css/main.4e15d56d.chunk.css",
-    "main.js": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/main.fd087c2e.chunk.js",
-    "main.js.map": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/main.fd087c2e.chunk.js.map",
+    "main.js": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/main.8078ebf1.chunk.js",
+    "main.js.map": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/main.8078ebf1.chunk.js.map",
     "runtime-main.js": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/runtime-main.cd553faa.js",
     "runtime-main.js.map": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/runtime-main.cd553faa.js.map",
     "static/css/2.17e5ed98.chunk.css": "Emeka-darthvader.github.io/Adludio-Challenge/static/css/2.17e5ed98.chunk.css",
     "static/js/2.93ddbc7e.chunk.js": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/2.93ddbc7e.chunk.js",
     "static/js/2.93ddbc7e.chunk.js.map": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/2.93ddbc7e.chunk.js.map",
     "index.html": "Emeka-darthvader.github.io/Adludio-Challenge/index.html",
-    "precache-manifest.b294c489b69083983a3475eec26cced5.js": "Emeka-darthvader.github.io/Adludio-Challenge/precache-manifest.b294c489b69083983a3475eec26cced5.js",
+    "precache-manifest.dbf42403350478a684f77fe81bb964e9.js": "Emeka-darthvader.github.io/Adludio-Challenge/precache-manifest.dbf42403350478a684f77fe81bb964e9.js",
     "service-worker.js": "Emeka-darthvader.github.io/Adludio-Challenge/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "Emeka-darthvader.github.io/Adludio-Challenge/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.4e15d56d.chunk.css.map": "Emeka-darthvader.github.io/Adludio-Challenge/static/css/main.4e15d56d.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.93ddbc7e.chunk.js",
     "static/css/main.4e15d56d.chunk.css",
-    "static/js/main.fd087c2e.chunk.js"
+    "static/js/main.8078ebf1.chunk.js"
   ]
 }
