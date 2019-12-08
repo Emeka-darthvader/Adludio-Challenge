@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "Emeka-darthvader.github.io/Adludio-Challenge/precache-manifest.4c5ebb14bb77742fa624d9e03a17e5a2.js"
+  "Emeka-darthvader.github.io/Adludio-Challenge/precache-manifest.b294c489b69083983a3475eec26cced5.js"
 );
 
 self.addEventListener('message', (event) => {

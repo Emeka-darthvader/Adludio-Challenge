@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7c1cb95865ec0cf4b5aa604796d0a28",
+    "revision": "97f42efc725085b73ed86b800599f439",
     "url": "Emeka-darthvader.github.io/Adludio-Challenge/index.html"
   },
   {
-    "revision": "1c6690341e95ae16fd99",
+    "revision": "2ca75b4b3a91e211d211",
     "url": "Emeka-darthvader.github.io/Adludio-Challenge/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "54049a9db99ff0101960",
+    "revision": "f5029cf6431db030a284",
     "url": "Emeka-darthvader.github.io/Adludio-Challenge/static/css/main.4e15d56d.chunk.css"
   },
   {
-    "revision": "1c6690341e95ae16fd99",
-    "url": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/2.d546d065.chunk.js"
+    "revision": "2ca75b4b3a91e211d211",
+    "url": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/2.93ddbc7e.chunk.js"
   },
   {
     "revision": "b651d5533fc80509587379dd07cc06bd",
-    "url": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/2.d546d065.chunk.js.LICENSE"
+    "url": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/2.93ddbc7e.chunk.js.LICENSE"
   },
   {
-    "revision": "54049a9db99ff0101960",
-    "url": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/main.4fa16de6.chunk.js"
+    "revision": "f5029cf6431db030a284",
+    "url": "Emeka-darthvader.github.io/Adludio-Challenge/static/js/main.fd087c2e.chunk.js"
   },
   {
     "revision": "0e3647e2ae7211378d90",
