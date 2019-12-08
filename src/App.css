@@ -1,12 +1,12 @@
 @font-face {
   font-family: "CustomFont";
-  src: url("/fonts/AvenirCondensedHand");
-  src: url("/fonts/AvenirCondensedHand.ttf") format("ttf"),
+  /* src: url("../fonts/AvenirCondensedHand"); */
+  src: url("./fonts/AvenirCondensedHand.ttf") format("ttf"),
   /* url("CustomFont.otf") format("opentype"),
   url("CustomFont.svg#filename") format("svg"); */
   }
 body {
-  background-image: url("/img/asset2.png");
+  background-image: url("./img/asset2.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
@@ -25,7 +25,7 @@ body {
 
 .registrationPane{
   
-  background-image: url("/img/asset1.jpg");
+  background-image: url("./img/asset1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: right 33% top 10%;
